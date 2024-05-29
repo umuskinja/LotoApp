@@ -1,0 +1,8 @@
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\bin\Debug\Player.exe.config
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\bin\Debug\Player.exe
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\bin\Debug\Player.pdb
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\obj\Debug\Player.exe
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\obj\Debug\Player.pdb
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\bin\Debug\Library.dll
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\bin\Debug\Library.pdb
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache

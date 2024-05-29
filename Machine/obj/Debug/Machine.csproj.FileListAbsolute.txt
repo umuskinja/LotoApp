@@ -1,0 +1,8 @@
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\bin\Debug\Machine.exe.config
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\bin\Debug\Machine.exe
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\bin\Debug\Machine.pdb
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\obj\Debug\Machine.csprojResolveAssemblyReference.cache
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\obj\Debug\Machine.exe
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\obj\Debug\Machine.pdb
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\bin\Debug\Library.dll
+c:\Users\alex\documents\visual studio 2015\Projects\LotoApp\Machine\bin\Debug\Library.pdb

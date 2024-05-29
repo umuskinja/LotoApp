@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b49288be-be7d-4747-9758-d19c2018819b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51537/LotoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="LotoService.wsdl" MetadataType="Wsdl" ID="408e25a1-525b-44fb-b636-0bba71971d80" SourceId="1" SourceUrl="http://localhost:51537/LotoService.svc?wsdl" />
+    <MetadataFile FileName="LotoService.disco" MetadataType="Disco" ID="0d077634-4c9a-4b4f-a200-b4f0c98f45eb" SourceId="1" SourceUrl="http://localhost:51537/LotoService.svc?disco" />
+    <MetadataFile FileName="LotoService1.xsd" MetadataType="Schema" ID="05f29ece-b4ec-4c88-b2be-ab70eba2b5d6" SourceId="1" SourceUrl="http://localhost:51537/LotoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="LotoService.xsd" MetadataType="Schema" ID="c410fc28-273a-4b1f-b213-a227183f42fb" SourceId="1" SourceUrl="http://localhost:51537/LotoService.svc?xsd=xsd0" />
+    <MetadataFile FileName="LotoService11.xsd" MetadataType="Schema" ID="f3b59872-3fc8-44c1-ae77-fdcd9ed2abdf" SourceId="1" SourceUrl="http://localhost:51537/LotoService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
